@@ -15,7 +15,7 @@ Lista de pré-requisitos necessários para rodar o projeto:
 - [VsCode](https://code.visualstudio.com/download)
 - Jupyter Notebook v7.0.8
 - Python v3.12.4
-- Anaconda v24.9.2 (Ambiente virtual chamado "infnet-24E4-2")
+- Anaconda v24.9.2 (Ambiente virtual chamado "infnet-24E4-3")
 
 ## Objetivo
 Este projeto tem como objetivo analisar e agrupar dados de mortalidade por suicídio no Brasil entre 2014 e 2018, utilizando técnicas de clusterização para identificar padrões e tendências. O trabalho é dividido em quatro partes principais, descritas a seguir:
